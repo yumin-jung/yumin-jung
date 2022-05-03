@@ -9,7 +9,7 @@ I'm interested in `React` & `Next.js` now!! 🚀
 <br />
 
 <a href="https://www.instagram.com/self_overcoming/">
-  <img src="https://img.shields.io/badge/-Instagram-5851DB?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/self_overcoming/"
+  <img src="https://img.shields.io/badge/-Instagram-5851DB?style=flat&logo=Instagram&link=https://www.instagram.com/self_overcoming/"
        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://yumin-jung.github.io/">
