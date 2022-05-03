@@ -4,7 +4,7 @@
 - Want to be `Frontend Developer` & `UX/UI Designer`
 - Enjoy Running
 
-I'm interested in ![React](https://img.shields.io/badge/React-61DBFB) & ![Next.js](https://img.shields.io/badge/Nextjs-black) now!! 🚀
+I'm interested in `React` & `Next.js` now!! 🚀
 
 <br />
 
