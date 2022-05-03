@@ -3,7 +3,7 @@
 - College student
 - Want to be, `Frontend Developer` & `UX/UI Designer`
 - Enjoy Running
-  <a style= "vertical-align:middle" href="https://www.instagram.com/self_overcoming/">
+  <a style= "vertical-align:bottom" href="https://www.instagram.com/self_overcoming/">
     <img style= "border-radius:8px;" src="https://img.shields.io/badge/Instagram-5851DB?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/self_overcoming/"/>
   </a>
 
