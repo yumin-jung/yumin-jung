@@ -11,6 +11,4 @@ I'm interested in `React` & `Next.js` now!! 🚀
        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<p style="text-align:center">
-> Less is more.
-</p>
+Less is more.
