@@ -6,7 +6,7 @@
 👟 Enjoy Running
 ```
 
-I'm interested in `React` & `Next.js` now!! 🚀
+I'm interested in `React` & `Next.js` now!! 🔥
 
 <h1></h1>
 
