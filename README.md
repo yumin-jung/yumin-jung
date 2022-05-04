@@ -1,10 +1,8 @@
 ## Hi, I'm Yumin Jung 🙂
 
-```
-📚 College Student
-🚀 Want to be { Frontend Developer } && { UX/UI Designer }
-👟 Enjoy Running
-```
+- 📚 College Student
+- 🚀 Want to be { Frontend Developer } && { UX/UI Designer }
+- 👟 Enjoy Running
 
 I'm interested in `React` & `Next.js` now!! 🔥
 
