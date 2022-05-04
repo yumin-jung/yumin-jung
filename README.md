@@ -15,6 +15,6 @@ I'm interested in `React` & `Next.js` now!! 🚀
 
 <a href="https://yumin-jung.github.io/" style="text-decoration:none">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-505050?style=flat&logo=github&link=https://yumin-jung.github.io/"
+        src="http://img.shields.io/badge/-GitHub%20Blog-505050?style=flat&logo=github&link=https://yumin-jung.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
