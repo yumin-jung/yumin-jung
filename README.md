@@ -4,7 +4,7 @@
 - 🚀 Want to be `Frontend Developer` & `UX/UI Designer`
 - 👟 Enjoy Running
 
-I'm interested in `React` & `Next.js` now!! 🔥
+I'm interested in `React` project with `Next.js` & `Material-UI` now!! 🔥
 
 <h1></h1>
 
