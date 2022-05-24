@@ -18,22 +18,22 @@
 
 - Back:
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
+<code><img width="30" height="30" src="https://hackr.io/tutorials/learn-express-js/logo/logo-express-js?ver=1557508379"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 
 - Cloud:
-<code><img width="30" height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_original_wordmark_logo_icon_146482.png"></code>
-<code><img width="30" height="30" src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/37ac57d6ac13a5a031eb8463cc565def83bfab4e/src/drivers/webextension/images/icons/vercel.svg"></code>
+<code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643514093/511/heroku.png?1643514093"></code>
+<code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643517287/33255/vercel.png?1643517287"></code>
 
 - Tool:
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img width="30" height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/2147637c2d77e0204b9e0f05b3f2650473e3c82e/icons/notion.svg"></code>
+<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 
 - Study:
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
-<code><img width="30" height="30" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"></code>
+<code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643514489/4730/nextjs.jpeg?1643514489"></code>
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/37ac57d6ac13a5a031eb8463cc565def83bfab4e/src/drivers/webextension/images/icons/MUI.svg"></code>
 
 <h1></h1>
