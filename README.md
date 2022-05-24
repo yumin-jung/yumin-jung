@@ -39,7 +39,7 @@
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/37ac57d6ac13a5a031eb8463cc565def83bfab4e/src/drivers/webextension/images/icons/MUI.svg"></code>
 
 <h1></h1>
-
+&ensp;
 <a href="https://yumin-jung.github.io/" style="text-decoration:none">
     <img src="http://img.shields.io/badge/-Blog-353940?style=flat&logo=github&logoColor=f2f2f7&link=https://yumin-jung.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
