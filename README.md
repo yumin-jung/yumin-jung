@@ -1,7 +1,7 @@
 ## Hi, I'm Yumin Jung 🙂
 
 - 📚 College Student
-- 🚀 Want to be `Frontend Developer` & `UX/UI Designer`
+- 🚀 Wanna be `Frontend Developer` & `UX/UI Designer`
 - 👟 Enjoy Running
 
 ###  Stack
