@@ -52,3 +52,7 @@
   <img src="https://img.shields.io/badge/-Instagram-353940?style=flat&logo=Instagram&logoColor=f2f2f7&link=https://www.instagram.com/self_overcoming/"
        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://www.strava.com/athletes/91183865" style="text-decoration:none">
+  <img src="https://img.shields.io/badge/-Strava-353940?style=flat&logo=Strava&logoColor=f2f2f7&link=https://www.strava.com/athletes/91183865"
+       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
