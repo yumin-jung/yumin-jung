@@ -2,7 +2,7 @@
 
 &ensp; 📚&ensp; College Student
 
-&ensp; 🚀&ensp; Wanna be `Frontend Developer` & `UX/UI Designer`
+&ensp; 🚀&ensp; Want to be `Frontend Developer` & `UX/UI Designer`
 
 &ensp; 👟&ensp; Enjoy Running
 
