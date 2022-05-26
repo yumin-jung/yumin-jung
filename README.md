@@ -23,10 +23,6 @@
 <code><img width="30" height="30" src="https://hackr.io/tutorials/learn-express-js/logo/logo-express-js?ver=1557508379"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 
-&ensp; Cloud&ensp;
-<code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643514093/511/heroku.png?1643514093"></code>
-<code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643517287/33255/vercel.png?1643517287"></code>
-
 &ensp; Tool&ensp;
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"></code>
