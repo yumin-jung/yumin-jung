@@ -2,17 +2,18 @@
 
 &ensp; 📚&ensp; College Student
 
-&ensp; 🚀&ensp; Want to be `Frontend Developer` & `UX/UI Designer`
+&ensp; 🚀&ensp; Want to be **Frontend Developer** & **UX/UI Designer**
 
 &ensp; 👟&ensp; Enjoy Running
 
-###  Skills
+### Skills
 
 &ensp; Lang&ensp; 
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg"></code>
 
 &ensp; Front&ensp;
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
@@ -47,9 +48,5 @@
 </a>
 <a href="https://www.instagram.com/self_overcoming/" style="text-decoration:none">
   <img src="https://img.shields.io/badge/-Instagram-353940?style=flat&logo=Instagram&logoColor=f2f2f7&link=https://www.instagram.com/self_overcoming/"
-       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://www.strava.com/athletes/91183865" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/-Strava-353940?style=flat&logo=Strava&logoColor=f2f2f7&link=https://www.strava.com/athletes/91183865"
        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
