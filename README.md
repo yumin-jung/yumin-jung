@@ -1,6 +1,6 @@
 ## Hi, I'm Yumin Jung 🙂
 
-&ensp; 📚&ensp; College Student
+&ensp; 💻&ensp; College Student
 
 &ensp; 🚀&ensp; Want to be **Frontend Developer** & **UX/UI Designer**
 
@@ -35,6 +35,7 @@
 <code><img width="30" height="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/37ac57d6ac13a5a031eb8463cc565def83bfab4e/src/drivers/webextension/images/icons/MUI.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 
 <h1></h1>
 &ensp;
