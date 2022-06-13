@@ -6,7 +6,7 @@
 
 &ensp; 👟&ensp; Enjoy Running
 
-###  Stack
+###  Skills
 
 &ensp; Lang&ensp; 
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
@@ -16,6 +16,7 @@
 
 &ensp; Front&ensp;
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643514489/4730/nextjs.jpeg?1643514489"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"></code>
 
 &ensp; Back&ensp;
@@ -30,7 +31,7 @@
 
 &ensp; Study now&ensp;
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
-<code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643514489/4730/nextjs.jpeg?1643514489"></code>
+<code><img width="30" height="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
 <code><img width="30" height="30" src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/37ac57d6ac13a5a031eb8463cc565def83bfab4e/src/drivers/webextension/images/icons/MUI.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 
