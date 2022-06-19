@@ -9,6 +9,7 @@
 ### Skills
 
 &ensp; Lang&ensp; 
+<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
@@ -27,14 +28,12 @@
 
 &ensp; Tool&ensp;
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
 
 &ensp; Study now&ensp;
-<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img width="30" height="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
-<code><img width="30" height="30" src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/37ac57d6ac13a5a031eb8463cc565def83bfab4e/src/drivers/webextension/images/icons/MUI.svg"></code>
-<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 
 <h1></h1>
