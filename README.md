@@ -24,6 +24,7 @@
 &ensp; Back&ensp;
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img width="30" height="30" src="https://hackr.io/tutorials/learn-express-js/logo/logo-express-js?ver=1557508379"></code>
+<code><img width="30" height="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 
 &ensp; Tool&ensp;
@@ -33,7 +34,7 @@
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
 
 &ensp; Study now&ensp;
-<code><img width="30" height="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 
 <h1></h1>
