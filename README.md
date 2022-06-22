@@ -9,7 +9,7 @@
 ### Skills
 
 &ensp; Lang&ensp; 
-<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
