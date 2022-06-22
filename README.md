@@ -35,8 +35,8 @@
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
 
 &ensp; Study now&ensp;
-<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 
 <h1></h1>
 &ensp;
