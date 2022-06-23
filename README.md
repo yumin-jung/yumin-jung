@@ -12,8 +12,6 @@
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg"></code>
 
 &ensp; Front&ensp;
