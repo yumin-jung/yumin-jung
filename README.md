@@ -1,23 +1,24 @@
 ## Hi, I'm Yumin Jung 🙂
 
-&ensp; 💻&ensp; College Student
+```Markdown
+ 💻  College Student
 
-&ensp; 🚀&ensp; Want to be **Frontend Developer** & **UX/UI Designer**
+ 🚀  Want to be Frontend Developer & UX/UI Designer
 
-&ensp; 👟&ensp; Enjoy Running
+ 👟  Enjoy Running
+```
 
 ### Skills
 
 &ensp; Lang&ensp; 
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
+<code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg"></code>
 
 &ensp; Front&ensp;
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 <code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643514489/4730/nextjs.jpeg?1643514489"></code>
-<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"></code>
 
 &ensp; Back&ensp;
@@ -33,7 +34,6 @@
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
 
 &ensp; Study now&ensp;
-<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 
 <h1></h1>
