@@ -1,11 +1,11 @@
 ## Hi, I'm Yumin Jung '◡'
 
 ### About Me
-&ensp; 💻&ensp; College Student
+&ensp; 💻 &ensp; College Student
 
-&ensp; 🚀&ensp; Want to be Frontend Developer
+&ensp; 🚀 &ensp; Want to be Frontend Developer
 
-&ensp; 👟&ensp; Enjoy Running
+&ensp; 👟 &ensp; Enjoy Running
 
 ### Tech Stack
 
