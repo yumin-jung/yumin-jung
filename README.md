@@ -1,12 +1,11 @@
-## Hi, I'm Yumin Jung 🙂
+## Hi, I'm Yumin Jung '◡'
 
-```Markdown
- 💻  College Student
+### About Me
+&ensp;💻&ensp; College Student
 
- 🚀  Want to be Frontend Developer & UX/UI Designer
+&ensp;🚀&ensp; Want to be Frontend Developer
 
- 👟  Enjoy Running
-```
+&ensp;👟&ensp; Enjoy Running
 
 ### Tech Stack
 
@@ -19,7 +18,6 @@
 &ensp; Front&ensp;
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 <code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643514489/4730/nextjs.jpeg?1643514489"></code>
-<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"></code>
 
 &ensp; Back&ensp;
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
@@ -32,10 +30,6 @@
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
-
-&ensp; Study now&ensp;
-<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"></code>
 
 <h1></h1>
 &ensp;
