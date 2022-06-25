@@ -1,10 +1,12 @@
 ## Hi, I'm Yumin Jung 🙂
 
-&ensp; 💻&ensp; College Student
+```Markdown
+ 💻  College Student
 
-&ensp; 🚀&ensp; Want to be **Frontend Developer** & **UX/UI Designer**
+ 🚀  Want to be Frontend Developer & UX/UI Designer
 
-&ensp; 👟&ensp; Enjoy Running
+ 👟  Enjoy Running
+```
 
 ### Tech Stack
 
