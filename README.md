@@ -33,6 +33,7 @@
 
 &ensp; Study now&ensp;
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"></code>
 
 <h1></h1>
 &ensp;
