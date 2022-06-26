@@ -32,6 +32,10 @@
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
 
+### Contribution
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <h1></h1>
 &ensp;
 <a href="https://yumin-jung.github.io/" style="text-decoration:none">
