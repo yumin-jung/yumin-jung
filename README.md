@@ -34,7 +34,7 @@
 
 ### Contribution
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <h1></h1>
 &ensp;
