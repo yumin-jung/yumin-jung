@@ -3,7 +3,7 @@
 ### About Me
 &ensp; 💻 &ensp; College Student
 
-&ensp; 🚀 &ensp; Want to be Frontend Developer
+&ensp; 🚀 &ensp; Want to be **Frontend Developer**
 
 &ensp; 👟 &ensp; Enjoy Running
 
