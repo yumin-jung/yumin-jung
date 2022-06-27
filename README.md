@@ -3,7 +3,7 @@
 ### About Me
 &ensp; 💻 &ensp; College Student
 
-&ensp; 🚀 &ensp; Interested in **FE** / **UX**
+&ensp; 🚀 &ensp; Interested in **FE** / **UX** / **Optimization**
 
 &ensp; 👟 &ensp; Enjoy Running
 
@@ -17,12 +17,12 @@
 
 &ensp; Front&ensp;
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-<code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643514489/4730/nextjs.jpeg?1643514489"></code>
-<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"></code>
+<code><img width="30" height="30" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 
 &ensp; Back&ensp;
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-<code><img width="30" height="30" src="https://hackr.io/tutorials/learn-express-js/logo/logo-express-js?ver=1557508379"></code>
+<code><img width="30" height="30" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"></code>
 <code><img width="30" height="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 
@@ -42,9 +42,9 @@
     <img src="http://img.shields.io/badge/-Portfolio-353940?style=flat&logo=github&logoColor=f2f2f7&link=https://yumin-portfolio.vercel.app/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://yumin-jung.notion.site/Yumin-90d0bdc00fe64a1086dc645bd15a44c8" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/-Notion-353940?style=flat&logo=Notion&logoColor=f2f2f7&link=https://yumin-jung.notion.site/Yumin-90d0bdc00fe64a1086dc645bd15a44c8"
-       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://medium.com/@jungym887" style="text-decoration:none">
+    <img src="http://img.shields.io/badge/-Medium-353940?style=flat&logo=medium&logoColor=f2f2f7&link=https://medium.com/@jungym887/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://www.instagram.com/self_overcoming/" style="text-decoration:none">
   <img src="https://img.shields.io/badge/-Instagram-353940?style=flat&logo=Instagram&logoColor=f2f2f7&link=https://www.instagram.com/self_overcoming/"
