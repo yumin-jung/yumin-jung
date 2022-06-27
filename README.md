@@ -18,12 +18,12 @@
 &ensp; Front&ensp;
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 <code><img width="30" height="30" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"></code>
-<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<code><img width="30" height="30" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4"></code>
 
 &ensp; Back&ensp;
-<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img width="30" height="30" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4"></code>
 <code><img width="30" height="30" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"></code>
-<code><img width="30" height="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
+<code><img width="30" height="30" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4"></code>
 <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 
 &ensp; Tool&ensp;
