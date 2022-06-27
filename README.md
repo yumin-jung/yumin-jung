@@ -39,7 +39,7 @@
 <h1></h1>
 &ensp;
 <a href="https://yumin-jung.github.io/" style="text-decoration:none">
-    <img src="http://img.shields.io/badge/-Blog-353940?style=flat&logo=github&logoColor=f2f2f7&link=https://yumin-jung.github.io/"
+    <img src="http://img.shields.io/badge/-Portfolio-353940?style=flat&logo=github&logoColor=f2f2f7&link=https://yumin-portfolio.vercel.app/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://yumin-jung.notion.site/Yumin-90d0bdc00fe64a1086dc645bd15a44c8" style="text-decoration:none">
