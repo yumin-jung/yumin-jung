@@ -1,4 +1,4 @@
-## Hi, I'm Yumin Jung '◡'
+## Hi, I'm Yumin Jung
 
 ### About Me
 &ensp; 💻 &ensp; College Student
