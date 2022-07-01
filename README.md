@@ -48,7 +48,3 @@
     <img src="http://img.shields.io/badge/-Medium-353940?style=flat&logo=medium&logoColor=f2f2f7&link=https://medium.com/@yumin-jung/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.instagram.com/self_overcoming/" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/-Instagram-353940?style=flat&logo=Instagram&logoColor=f2f2f7&link=https://www.instagram.com/self_overcoming/"
-       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
