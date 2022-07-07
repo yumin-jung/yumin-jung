@@ -28,7 +28,6 @@
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"></code>
 
 &ensp;&ensp;Study now&ensp;
-<code><img width="30" height="30" src="https://user-images.githubusercontent.com/6764957/53868378-2b51fc80-3fb3-11e9-9cee-0277efe8a927.png"></code>
 <code><img width="30" height="30" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg"></code>
 <code><img width="30" height="30" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ae_appicon.svg"></code>
 
