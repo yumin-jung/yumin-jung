@@ -30,7 +30,7 @@
 <code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"></code>
 
 &ensp; Study now &ensp;
-<code><img width="30" height="30" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg"></code>
+<code><img width="30" height="30" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4"></code>
 <code><img width="30" height="30" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ae_appicon.svg"></code>
 
 ### Contribution
