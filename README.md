@@ -3,7 +3,7 @@
 ### About Me
 &ensp; 💻 &ensp; College Student
 
-&ensp; 🚀 &ensp; Interested in **FE** / **UX** / **Optimization**
+&ensp; 🚀 &ensp; Interested in **FE** / **UX** / **DevOps**
 
 &ensp; 👟 &ensp; Enjoy Running
 
