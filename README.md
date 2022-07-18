@@ -5,7 +5,9 @@ Hi, I'm Yumin Jung 👋
 <br/>
 
 <p align="center">
-<img src="https://i.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp">
+  <a href="https://yumin-portfolio.vercel.app/">
+    <img src="https://i.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp">
+  </a>
 </p>
 
 <br/>
@@ -32,16 +34,4 @@ Hi, I'm Yumin Jung 👋
 
 <p align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg">
-</p>
-
-<h1></h1>
-<p align="center">
-<a href="https://yumin-portfolio.vercel.app/" style="text-decoration:none">
-    <img src="http://img.shields.io/badge/-Portfolio-353940?style=flat&logo=github&logoColor=f2f2f7&link=https://yumin-portfolio.vercel.app/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://medium.com/@yumin-jung" style="text-decoration:none">
-    <img src="http://img.shields.io/badge/-Medium-353940?style=flat&logo=medium&logoColor=f2f2f7&link=https://medium.com/@yumin-jung/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 </p>
