@@ -20,6 +20,8 @@ Hi, I'm Yumin Jung 👋
   </a>
 </p>
 
+<br/>
+
 <h3 align="center">Study Now</h3>
 
 <p align="center">
@@ -35,3 +37,9 @@ Hi, I'm Yumin Jung 👋
 <p align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg">
 </p>
+
+<br/>
+
+<h3 align="center">Have a Good Day! 🙂</h3>
+
+<br/>
