@@ -40,6 +40,6 @@ Hi, I'm Yumin Jung 👋
 
 <br/>
 
-<h3 align="center">Have a Good Day! 🙂</h3>
+<h3 align="center">Have a Good Day 🙂</h3>
 
 <br/>
