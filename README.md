@@ -45,7 +45,7 @@ Hi, I'm Yumin Jung 👋
 <h3 align="center">Contribution</h3>
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg" width="90%">
+<img src="./profile-3d-contrib/profile-night-green.svg">
 </p>
 
 <h1></h1>
