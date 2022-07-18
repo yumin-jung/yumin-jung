@@ -3,6 +3,7 @@
 <h3 align="center">Hi, I'm Yumin Jung 👋</h3>
 
 <br/>
+<br/>
 
 <p align="center">
   <a href="https://yumin-portfolio.vercel.app/">
