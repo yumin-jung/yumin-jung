@@ -4,20 +4,6 @@ Hi, I'm Yumin Jung 👋
 
 <br/>
 
-<h3 align="center">About Me</h3>
-
-<p align="center">
-💻&ensp;College Student
-</p>
-
-<p align="center">
-🚀&ensp;Interested in FE / UX / DevOps
-</p>
-
-<p align="center">
-👟&ensp;Enjoy Running
-</p>
-
 <p align="center">
 <img src="https://i.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp">
 </p>
