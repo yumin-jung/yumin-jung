@@ -1,6 +1,8 @@
-<h2 align="center">
+<h3 align="center">
 Hi, I'm Yumin Jung 👋
-</h2>
+</h3>
+
+<br/>
 
 <h3 align="center">About Me</h3>
 
@@ -20,6 +22,8 @@ Hi, I'm Yumin Jung 👋
 <img src="https://i.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp">
 </p>
 
+<br/>
+
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
@@ -36,6 +40,7 @@ Hi, I'm Yumin Jung 👋
   </a>
 </p>
 
+<br/>
 
 <h3 align="center">Contribution</h3>
 
