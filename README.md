@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/yumin-jung">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,ts,js,go,git,figma,jest&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,ts,js,go,jest,git,figma&perline=6"/>
   </a>
 </p>
 
