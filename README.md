@@ -6,7 +6,7 @@
 
 <h4 align="center">Click My Cat !!</h4>
 <p align="center">
-  <a href="https://yumin-portfolio.vercel.app/">
+  <a href="https://yumin-portfolio.vercel.app/" target="_blank">
     <img src="https://i.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp">
   </a>
 </p>
