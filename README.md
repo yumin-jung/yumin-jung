@@ -50,6 +50,6 @@
 
 <br/>
 
-<h3 align="center">Have a Good Day 🙂</h3>
+<h3 align="center">Have a Good Day&ensp;: )</h3>
 
 <br/>
