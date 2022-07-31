@@ -44,7 +44,7 @@
 <h3 align="center">Blog</h3>
 <p align="center">
   <a href="https://medium.com/@yumin-jung">
-    <img src="https://media.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif">
+    <img src="https://media.giphy.com/media/mufPePT1wysiA/giphy.gif">
   </a>
 </p>
 
