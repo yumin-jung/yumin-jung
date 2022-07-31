@@ -41,6 +41,15 @@
 
 <br/>
 
+<h3 align="center">Blog</h3>
+<p align="center">
+  <a href="https://medium.com/@yumin-jung">
+    <img src="https://media.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif">
+  </a>
+</p>
+
+<br/>
+
 <h3 align="center">Have a Good Day 🙂</h3>
 
 <br/>
