@@ -36,7 +36,7 @@
 <h3 align="center">Contribution</h3>
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-green-animate.svg">
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="85%">
 </p>
 
 <br/>
