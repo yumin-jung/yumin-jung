@@ -36,7 +36,7 @@
 <h3 align="center">Contribution</h3>
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="85%">
+<img src="./profile-3d-contrib/profile-green-animate.svg">
 </p>
 
 <br/>
@@ -50,6 +50,6 @@
 
 <br/>
 
-<h3 align="center">Have a Good Day&ensp;: )</h3>
+<h3 align="center">Have a Good Day 🙂</h3>
 
 <br/>
