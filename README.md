@@ -7,7 +7,7 @@
 <h4 align="center">Click My Cat !!</h4>
 <p align="center">
   <a href="https://yumin-portfolio.vercel.app/">
-    <img src="https://i.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp">
+    <img src="https://media.giphy.com/media/1r1SwzvgghcNW/giphy.gif">
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/yumin-jung">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,nodejs,express,mongodb,ts,js,go,jest,git,figma&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,nodejs,express,figma,ts,js,go,mongodb,jest,git&perline=6&theme=light"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/yumin-jung">
-    <img src="https://skillicons.dev/icons?i=remix,docker,ae"/>
+    <img src="https://skillicons.dev/icons?i=remix,docker&theme=light"/>
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 <h3 align="center">Contribution</h3>
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg">
+<img src="./profile-3d-contrib/profile-green-animate.svg">
 </p>
 
 <br/>
