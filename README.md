@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/yumin-jung">
-    <img src="https://skillicons.dev/icons?i=remix,docker&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=docker,latex&theme=light"/>
   </a>
 </p>
 
