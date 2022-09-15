@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/yumin-jung">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,nodejs,express,figma,ts,js,go,mongodb,jest,git&perline=6&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,remix,nodejs,express,graphql,ts,js,go,python,mongodb,git,figma&perline=7"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/yumin-jung">
-    <img src="https://skillicons.dev/icons?i=latex,mysql&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=latex,mysql"/>
   </a>
 </p>
 
