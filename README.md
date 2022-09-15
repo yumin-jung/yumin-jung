@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/yumin-jung">
-    <img src="https://skillicons.dev/icons?i=latex,mysql"/>
+    <img src="https://skillicons.dev/icons?i=latex,sqlite,mysql"/>
   </a>
 </p>
 
