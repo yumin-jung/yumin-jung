@@ -4,10 +4,10 @@
 
 <br/>
 
-<h4 align="center">Click My Cat !!</h4>
+<h4 align="center">Click My Macintosh !!</h4>
 <p align="center">
   <a href="https://yumin-jung.vercel.app/">
-    <img src="https://media.giphy.com/media/1r1SwzvgghcNW/giphy.gif">
+    <img width="40%" src="https://media.giphy.com/media/tOFKFDbeh9V7y/giphy.gif">
   </a>
 </p>
 
@@ -41,15 +41,8 @@
 
 <br/>
 
-<h3 align="center">Blog</h3>
-<p align="center">
-  <a href="https://medium.com/@yumin-jung">
-    <img src="https://media.giphy.com/media/mufPePT1wysiA/giphy.gif">
-  </a>
-</p>
-
 <br/>
 
-<h3 align="center">Have a Good Day 🙂</h3>
+<h3 align="center">Have a Nice Day 🙂</h3>
 
 <br/>
