@@ -43,6 +43,6 @@
 
 <br/>
 
-<h3 align="center">Have a Nice Day 🙂</h3>
+<h3 align="center">Have a Nice Day 😎</h3>
 
 <br/>
