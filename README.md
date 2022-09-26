@@ -4,10 +4,10 @@
 
 <br/>
 
-<h4 align="center">Click My Coffee !!</h4>
+<h4 align="center">Click My Coffee ☕️</h4>
 <p align="center">
   <a href="https://yumin-jung.vercel.app/">
-    <img width="40%" src="https://media.giphy.com/media/3oEjIa5lbVSfv8a9s4/giphy.gif">
+    <img width="400px" src="https://media.giphy.com/media/3oEjIa5lbVSfv8a9s4/giphy.gif">
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 <h3 align="center">Contribution</h3>
 
 <p align="center">
-<img width="80%" src="./profile-3d-contrib/profile-season-animate.svg">
+<img width="800px" src="./profile-3d-contrib/profile-season-animate.svg">
 </p>
 
 <br/>
