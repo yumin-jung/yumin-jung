@@ -1,8 +1,4 @@
-<br/>
-
-<h3>Hi, I'm Yumin Jung 🧑‍💻</h3>
-
-<br/>
+<h4>Hi, I'm Yumin Jung 🧑‍💻</h4>
 
 <!-- <h4 align="center">Click My Coffee ☕️</h4>
 <p align="center">
@@ -11,7 +7,7 @@
   </a>
 </p> -->
 
-<h3>Tech Stack</h3>
+<h4>Tech Stack</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,js,ts,mongodb,git)](https://skillicons.dev)
 
@@ -21,7 +17,7 @@
   </a>
 </p> -->
 
-<h3>Study Now</h3>
+<h4>Study Now</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=swift,figma)](https://skillicons.dev)
 
@@ -37,8 +33,4 @@
 <img width="800px" src="./profile-3d-contrib/profile-season-animate.svg">
 </p> -->
 
-<br/>
-
-<h3>Have a good day 😌</h3>
-
-<br/>
+<h4>Have a good day 😌</h4>
