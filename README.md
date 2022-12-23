@@ -9,7 +9,7 @@
 
 <br/>
 
-<h4 align="center">Tech Stack</h4>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <a href="https://github.com/yumin-jung">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h4 align="center">Study Now</h4>
+<h3 align="center">Study Now</h3>
 
 <p align="center">
   <a href="https://github.com/yumin-jung">
@@ -33,4 +33,4 @@
 
 <br/>
 
-<h4 align="right">Have a good day 😌</h4>
+<h3 align="right">Have a good day 😌</h3>
