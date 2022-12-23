@@ -1,3 +1,5 @@
+<br/>
+
 <h3>Hi, I'm Yumin Jung 🧑‍💻</h3>
 
 <!-- <h4 align="center">Click My Coffee ☕️</h4>
@@ -34,3 +36,5 @@
 <br/>
 
 <h3 align="right">Have a good day 😌</h3>
+
+<br/>
