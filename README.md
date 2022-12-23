@@ -36,5 +36,3 @@
 <br/>
 
 <h3 align="right">Have a good day 😌</h3>
-
-<br/>
