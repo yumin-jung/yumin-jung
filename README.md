@@ -1,5 +1,5 @@
 <h1></h1>
-<h3>Hi, I'm Yumin Jung 🧑‍💻</h3>
+<h3 align="center">Hi, I'm Yumin Jung 🧑‍💻</h3>
 
 <!-- <h4 align="center">Click My Coffee ☕️</h4>
 <p align="center">
@@ -34,4 +34,4 @@
 
 <br/>
 
-<h3 align="right">Have a good day 😌</h3>
+<h3 align="center">Have a good day 😌</h3>
