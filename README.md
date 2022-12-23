@@ -1,4 +1,4 @@
-<h4>Hi, I'm Yumin Jung 🧑‍💻</h4>
+<h3>Hi, I'm Yumin Jung 🧑‍💻</h3>
 
 <!-- <h4 align="center">Click My Coffee ☕️</h4>
 <p align="center">
