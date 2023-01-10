@@ -1,5 +1,5 @@
-<h1></h1>
-<h3 align="center">Hi, I'm Yumin Jung 🧑‍💻</h3>
+<!-- <h1></h1> -->
+<!-- <h3 align="center">Hi, I'm Yumin Jung 🧑‍💻</h3> -->
 
 <!-- <h4 align="center">Click My Coffee ☕️</h4>
 <p align="center">
@@ -8,23 +8,23 @@
   </a>
 </p> -->
 
-<br/>
+<!-- <br/> -->
 
-<h3 align="center">Tech Stack</h3>
+<!-- <h3 align="center">Tech Stack</h3> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/yumin-jung">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nextjs,mongodb,git&perline=10"/>
   </a>
-</p>
+</p> -->
 
-<h3 align="center">Study Now</h3>
+<!-- <h3 align="center">Study Now</h3> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/yumin-jung">
     <img src="https://skillicons.dev/icons?i=swift,figma"/>
   </a>
-</p>
+</p> -->
 
 <!-- <h3 align="center">Contribution</h3>
 
@@ -32,6 +32,6 @@
 <img width="800px" src="./profile-3d-contrib/profile-season-animate.svg">
 </p> -->
 
-<br/>
+<!-- <br/> -->
 
-<h3 align="center">Have a good day 😌</h3>
+<h3>Seize the day 👟</h3>
