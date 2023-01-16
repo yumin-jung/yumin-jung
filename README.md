@@ -38,9 +38,9 @@
 
 <div>
   <a href="https://yumin.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-dddddd?style=flat&logo=Next.js&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Portfolio-white?style=flat&logo=Next.js&logoColor=black"/>
   </a>
   <a href="https://blog-yumin.vercel.app/">
-    <img src="https://img.shields.io/badge/Tech Blog-dddddd?style=flat&logo=Vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Tech Blog-white?style=flat&logo=Vercel&logoColor=black"/>
   <a href="https://yumin.vercel.app/">
 </div>
