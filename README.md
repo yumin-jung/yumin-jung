@@ -34,7 +34,7 @@
 
 <!-- <br/> -->
 
-<h3>Seize the day 👟</h3>
+<h3>Seize the day.</h3>
 
 <div>
   <a href="https://yumin.vercel.app/">
@@ -42,5 +42,8 @@
   </a>
   <a href="https://velog.io/@yumin-jung">
     <img src="https://img.shields.io/badge/Tech Blog-white?style=flat&logo=velog&logoColor=black"/>
+  </a>
+  <a href="https://docs-yumin.vercel.app/">
+    <img src="https://img.shields.io/badge/Documentation-white?style=flat&logo=vercel&logoColor=black"/>
   </a>
 </div>
