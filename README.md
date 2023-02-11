@@ -44,8 +44,9 @@
   </a>
 </div> -->
 
-[![ES6](https://img.shields.io/badge/ES6-%23323330.svg?style=flat&logo=javascript)](#)
+[![ES6](https://img.shields.io/badge/ES6-%2320232a.svg?style=flat&logo=javascript)](#)
 [![typescript](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=flat&logo=TypeScript)](#)
 [![react](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React)](#)
 [![next](https://img.shields.io/badge/Next.js-%2320232a.svg?style=flat&logo=Next.js)](#)
 [![three](https://img.shields.io/badge/Three.js-%2320232a.svg?style=flat&logo=Three.js)](#)
+[![LeetCode user joonas-yoon](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=%2320232a&color=gray&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyumin-jung&logo=leetcode)](https://leetcode.com/yumin-jung/)
