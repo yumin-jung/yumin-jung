@@ -32,11 +32,7 @@
 <img width="800px" src="./profile-3d-contrib/profile-season-animate.svg">
 </p> -->
 
-<!-- <br/> -->
-
-<h3>Seize the day.</h3>
-
-<div>
+<!-- <div>
   <a href="https://yumin.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-white?style=flat&logo=Next.js&logoColor=black"/>
   </a>
@@ -46,4 +42,10 @@
   <a href="https://docs-yumin.vercel.app/">
     <img src="https://img.shields.io/badge/Documentation-white?style=flat&logo=vercel&logoColor=black"/>
   </a>
-</div>
+</div> -->
+
+[![ES6](https://img.shields.io/badge/ES6-%23323330.svg?style=flat&logo=javascript)](#)
+[![typescript](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=flat&logo=TypeScript)](#)
+[![react](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React)](#)
+[![next](https://img.shields.io/badge/Next.js-%2320232a.svg?style=flat&logo=Next.js)](#)
+[![three](https://img.shields.io/badge/Three.js-%2320232a.svg?style=flat&logo=Three.js)](#)
