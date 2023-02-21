@@ -49,4 +49,3 @@
 [![react](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React)](#)
 [![next](https://img.shields.io/badge/Next.js-%2320232a.svg?style=flat&logo=Next.js)](#)
 [![three](https://img.shields.io/badge/Three.js-%2320232a.svg?style=flat&logo=Three.js)](#)
-[![leetcode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=%2320232a&color=gray&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyumin-jung&logo=leetcode)](https://leetcode.com/yumin-jung/)
