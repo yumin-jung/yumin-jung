@@ -49,3 +49,5 @@
 [![react](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React)](#)
 [![next](https://img.shields.io/badge/Next.js-%2320232a.svg?style=flat&logo=Next.js)](#)
 [![three](https://img.shields.io/badge/Three.js-%2320232a.svg?style=flat&logo=Three.js)](#)
+[![git](https://img.shields.io/badge/Git-%2320232a.svg?style=flat&logo=Git)](#)
+[![figma](https://img.shields.io/badge/Figma-%2320232a.svg?style=flat&logo=Figma)](#)
