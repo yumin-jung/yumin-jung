@@ -1,57 +1,7 @@
-<!-- <h1></h1> -->
-<!-- <h3 align="center">Hi, I'm Yumin Jung 🧑‍💻</h3> -->
+<h1></h1>
 
-<!-- <h4 align="center">Click My Coffee ☕️</h4>
-<p align="center">
-  <a href="https://yumin-jung.vercel.app/">
-    <img width="400px" src="https://media.giphy.com/media/3oEjIa5lbVSfv8a9s4/giphy.gif">
-  </a>
-</p> -->
+개발자, 디자이너, 사용자를 연결하는 UX Engineer 입니다.<br/>
+그들의 소중한 시간을 아끼고, 더 나은 경험을 선물하기 위해 고민합니다.<br/>
 
-<!-- <br/> -->
-
-<!-- <h3 align="center">Tech Stack</h3> -->
-
-<!-- <p align="center">
-  <a href="https://github.com/yumin-jung">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nextjs,mongodb,git&perline=10"/>
-  </a>
-</p> -->
-
-<!-- <h3 align="center">Study Now</h3> -->
-
-<!-- <p align="center">
-  <a href="https://github.com/yumin-jung">
-    <img src="https://skillicons.dev/icons?i=swift,figma"/>
-  </a>
-</p> -->
-
-<!-- <h3 align="center">Contribution</h3>
-
-<p align="center">
-<img width="800px" src="./profile-3d-contrib/profile-season-animate.svg">
-</p> -->
-
-<!-- <div>
-  <a href="https://yumin.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=flat&logo=Next.js&logoColor=black"/>
-  </a>
-  <a href="https://velog.io/@yumin-jung">
-    <img src="https://img.shields.io/badge/Tech Blog-white?style=flat&logo=velog&logoColor=black"/>
-  </a>
-  <a href="https://docs-yumin.vercel.app/">
-    <img src="https://img.shields.io/badge/Documentation-white?style=flat&logo=vercel&logoColor=black"/>
-  </a>
-</div> -->
-
-<!--
-[![ES6](https://img.shields.io/badge/ES6-%2320232a.svg?style=flat&logo=javascript)](#)
-[![typescript](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=flat&logo=TypeScript)](#)
-[![react](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React)](#)
-[![next](https://img.shields.io/badge/Next.js-%2320232a.svg?style=flat&logo=Next.js)](#)
-[![three](https://img.shields.io/badge/Three.js-%2320232a.svg?style=flat&logo=Three.js)](#)
-[![figma](https://img.shields.io/badge/Figma-%2320232a.svg?style=flat&logo=Figma)](#)
-[![framer](https://img.shields.io/badge/Framer-%2320232a.svg?style=flat&logo=Framer)](#)
-[![git](https://img.shields.io/badge/Git-%2320232a.svg?style=flat&logo=Git)](#) -->
-
-Hey runner, yes you can.
+[![blog](https://img.shields.io/badge/Blog-%2320232a.svg?style=flat&logo=vercel)](https://yumin.blog)
+[![linkedin](https://img.shields.io/badge/LinkedIn-%2320232a.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/alex-yumin-jung/)
