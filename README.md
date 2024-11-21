@@ -3,12 +3,10 @@
 npx yumin
 ```
 
-<a href="https://github.com/yumin-jung">
+<a href="https://kkosunnae.vercel.app/">
   <img
-    src="https://render.gitanimals.org/farms/yumin-jung"
-    width="60%"
-  /><img
-    src="https://render.gitanimals.org/lines/yumin-jung?pet-id=644439264307722771"
-    width="40%"
+    src="https://render.gitanimals.org/lines/yumin-jung?pet-id=647397009688613028"
+    width="600"
+    height="120"
   />
 </a>
